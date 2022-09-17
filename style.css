@@ -1,0 +1,97 @@
+{
+margin: 0;
+padding: 0;
+
+
+
+}
+
+
+.main{
+
+}
+
+.form{
+    width: 300px;
+    height: 300px;
+   
+   background-color: rgb(249, 249, 249);
+    position: absolute;
+    top: 150px;
+    left: 620px;
+    border-radius: 10px;
+    padding: 25px;
+}
+.form h2{
+    width: 250px;
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+   
+    border-radius: 10px;
+    margin: 2px;
+    padding: 12px;
+
+}
+.form input{
+    width: 270px;
+    height: 40px;
+    border-bottom: 1px solid #272626;
+    border-top: 1px solid #383636;
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 15px;
+    font-family: sans-serif;
+
+}
+.form input :focus{
+    outline: none;
+
+}
+.btnn{
+    width: 275px;
+    height: 40px;
+    background: #071ba0;
+    margin-top: 15px;
+    border: #000000;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+    letter-spacing: 2px;
+    font-size: 25px;
+    
+
+}
+.btnn:hover{
+    background: #0826a1;
+    color: rgb(6, 93, 93);
+}
+.btnn a{
+    text-decoration: none;
+    font-family: Arial;
+    color: #ffffff;
+
+}
+.form .link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding-top: 20px;
+    taxt text-align: center;
+}
+
+
+.logo{
+    color:blue;
+    font-size: 40px;
+    font-family: Arial;
+    padding-left: 700px;
+    padding-top: 70px;
+}
+
+
+
+
+
